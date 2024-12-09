@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: atl_Lightning
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 358ad95e5c418a649824d7f302741dd3, type: 3}
+    - {fileID: 2800000, guid: 40ddbca342356c34bba1eddbb99771a5, type: 3}
+    - {fileID: 2800000, guid: 124e71fa6b4c38847af1fefc8fcd3b43, type: 3}
+    - {fileID: 2800000, guid: c9cd070e7fb8ca94bb55d36a88be9bfc, type: 3}
+    - {fileID: 2800000, guid: a535c9b01d585f849a514141b1867054, type: 3}
+    - {fileID: 2800000, guid: 367fdb6f00afb2c499fe8c1c4491953c, type: 3}
+    - {fileID: 2800000, guid: 92e69608317c0ee4aa0a1dc93b2e4a58, type: 3}
+    - {fileID: 2800000, guid: 6b4036f18f0c17b489d7e475a0e7c337, type: 3}
+    - {fileID: 2800000, guid: 250b4b3166b052048907cd3070616d71, type: 3}
+    - {fileID: 2800000, guid: 486bf63ed4eaa164d98e8c8989d8b348, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a535c9b01d585f849a514141b1867054, type: 3}
+  - {fileID: 21300000, guid: 250b4b3166b052048907cd3070616d71, type: 3}
+  - {fileID: 21300000, guid: 6b4036f18f0c17b489d7e475a0e7c337, type: 3}
+  - {fileID: 21300000, guid: 40ddbca342356c34bba1eddbb99771a5, type: 3}
+  - {fileID: 21300000, guid: 92e69608317c0ee4aa0a1dc93b2e4a58, type: 3}
+  - {fileID: 21300000, guid: 124e71fa6b4c38847af1fefc8fcd3b43, type: 3}
+  - {fileID: 21300000, guid: c9cd070e7fb8ca94bb55d36a88be9bfc, type: 3}
+  - {fileID: 21300000, guid: 486bf63ed4eaa164d98e8c8989d8b348, type: 3}
+  - {fileID: 21300000, guid: 358ad95e5c418a649824d7f302741dd3, type: 3}
+  - {fileID: 21300000, guid: 367fdb6f00afb2c499fe8c1c4491953c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - spr_Lightning_05
+  - spr_Lightning_09
+  - spr_Lightning_08
+  - spr_Lightning_02
+  - spr_Lightning_07
+  - spr_Lightning_03
+  - spr_Lightning_04
+  - spr_Lightning_10
+  - spr_Lightning_01
+  - spr_Lightning_06
+  m_RenderDataMap: {}
+  m_Tag: atl_Lightning
+  m_IsVariant: 0

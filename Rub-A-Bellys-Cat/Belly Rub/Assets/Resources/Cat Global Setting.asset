@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c98b39040f887a46b4404b5e98caf25, type: 3}
+  m_Name: Cat Global Setting
+  m_EditorClassIdentifier: 
+  <TickLength>k__BackingField: 0.25
+  <MinDistancePerTick>k__BackingField: 0.01
+  <MaxDistancePerTick>k__BackingField: 0.02
+  <MinPointRewardPerTick>k__BackingField: 1
+  <MaxPointRewardPerTick>k__BackingField: 2
+  <MinPatienceRewardPerTick>k__BackingField: 0.3
+  <MaxPatienceRewardPerTick>k__BackingField: 0.85
+  <PatienceDrainDelay>k__BackingField: 1.25
+  <PatienceDrainPerSecond>k__BackingField: 7
+  <DamagedLockOutTime>k__BackingField: 1
+  <PatienceDamagePerHit>k__BackingField: 25
+  <CatIntensityScalar>k__BackingField: 0.07
+  <DifficultySettings>k__BackingField:
+  - {fileID: 11400000, guid: 3a2f13a44acd5a04aa6a0426738d55a4, type: 2}
+  - {fileID: 11400000, guid: 09a13fbfc31eb71489ee3f2d66848394, type: 2}
+  - {fileID: 11400000, guid: 8cc1d2aae40bc2e4ea197f2c77620fa5, type: 2}
+  - {fileID: 11400000, guid: 55b5769ccabf9fe47902687dcb5e18f1, type: 2}
+  - {fileID: 11400000, guid: 77fe7be8f7fae344090d9b43f517c2fd, type: 2}
+  - {fileID: 11400000, guid: 5db71ed9cee5ccf4e8dc4838ba688c5a, type: 2}
+  - {fileID: 11400000, guid: e0d3d4fd1f5351e4abeb05d60d900c4e, type: 2}
+  - {fileID: 11400000, guid: 381fa28fc5a04f843b015b60237f83a8, type: 2}
+  - {fileID: 11400000, guid: 217023a3845715f4f97eff5e29781047, type: 2}
+  - {fileID: 11400000, guid: 06199451d2891bb4fa5e814409f7f376, type: 2}

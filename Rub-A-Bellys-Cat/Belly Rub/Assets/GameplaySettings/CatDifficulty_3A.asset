@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 689359d6c42545e43a695a710b22c8b9, type: 3}
+  m_Name: CatDifficulty_3A
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  <ScoreThreshold>k__BackingField: 150
+  <Theme>k__BackingField: {fileID: 0}
+  <NewlyActivatedAttacks>k__BackingField: 14000000
+  <FirstAttackPattern>k__BackingField: {fileID: 11400000, guid: fad454b9e12a61d449be88720d894dd0, type: 2}
+  <AttackPatterns>k__BackingField:
+  - {fileID: 11400000, guid: 5d4dd1b56ee722c499bf70160e6ec94d, type: 2}
+  - {fileID: 11400000, guid: b8364499b58933d4eba8c17ee88abc28, type: 2}
+  - {fileID: 11400000, guid: a3ec9368d36e83a4db0879807a66f5b3, type: 2}
+  - {fileID: 11400000, guid: fad454b9e12a61d449be88720d894dd0, type: 2}
